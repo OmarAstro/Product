@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Product.io/Home/static/css/main.2f7fe00c.css",
-    "main.js": "/Product.io/Home/static/js/main.b98b320c.js",
+    "main.js": "/Product.io/Home/static/js/main.bed76b33.js",
     "static/media/fa-solid-900.ttf": "/Product.io/Home/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/Product.io/Home/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/Product.io/Home/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -68,10 +68,10 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/Product.io/Home/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/Product.io/Home/index.html",
     "main.2f7fe00c.css.map": "/Product.io/Home/static/css/main.2f7fe00c.css.map",
-    "main.b98b320c.js.map": "/Product.io/Home/static/js/main.b98b320c.js.map"
+    "main.bed76b33.js.map": "/Product.io/Home/static/js/main.bed76b33.js.map"
   },
   "entrypoints": [
     "static/css/main.2f7fe00c.css",
-    "static/js/main.b98b320c.js"
+    "static/js/main.bed76b33.js"
   ]
 }
