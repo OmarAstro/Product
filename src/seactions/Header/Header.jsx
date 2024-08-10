@@ -43,7 +43,7 @@ export default function Header() {
                 size="lg"
                 // rel="nofollow"
                 // target="_blank"
-                href={"/ListProduct"}
+                href="/ListProduct"
               >
                 view product
               </MDBBtn>

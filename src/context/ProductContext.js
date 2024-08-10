@@ -62,7 +62,7 @@ export const ProductProvider = ({ children }) => {
     if (cart.length > 0) {
       setCart([]);
     } else {
-      setCart(cart);
+      setCart([]);
     }
   };
 

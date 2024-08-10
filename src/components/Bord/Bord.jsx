@@ -67,6 +67,7 @@ const Bord = () => {
                   marginTop: "20px",
                   textAlign: "center",
                 }}
+                className="d-none d-md-inline-grid"
               >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
               </p>
@@ -83,6 +84,7 @@ const Bord = () => {
                   marginBottom: "20px",
                   marginTop: "20px",
                 }}
+                className="d-none d-md-inline-grid"
               >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
               </p>
@@ -112,7 +114,8 @@ const Bord = () => {
                   },
                   
                 }}
-                className="btn bord-btn mx-3 my-3"
+                className="btn bord-btn mx-3 my-3 d-none d-md-inline-grid" 
+
               >
                 button
               </Link>
