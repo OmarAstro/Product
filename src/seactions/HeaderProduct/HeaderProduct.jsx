@@ -45,7 +45,7 @@ export default function HeaderProduct() {
                 size="lg"
                 // rel="nofollow"
                 // target="_blank"
-                href={"/ListProduct"}
+                to="/ListProduct"
               >
                 Product
               </MDBBtn>
@@ -56,7 +56,7 @@ export default function HeaderProduct() {
                 size="lg"
                 // rel="nofollow"
                 // target="_blank"
-                href={"/Product"}
+                to="/Product"
               >
                 Home
               </MDBBtn>
