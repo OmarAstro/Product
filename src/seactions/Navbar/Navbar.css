@@ -1,0 +1,9 @@
+a:hover {
+  color: #ddc6b6 !important;
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+a {
+  /* color: #202020 !important; */
+
+}

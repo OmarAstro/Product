@@ -1,0 +1,15 @@
+.carousel-inner {
+  display: flex !important;
+  gap: 20px !important;
+
+}
+.carousel {
+  display: flex !important;
+  position:  relative !important;
+}
+
+.carousel-item {
+  margin-right: 0px !important;
+  display: flex !important;
+  gap: 20px !important;
+}

@@ -1,0 +1,8 @@
+/* .accordion-button {
+  background-color: #ddc8b7;
+} */
+
+.accordion-borderless .accordion-item .accordion-button:not(.collapsed) {
+  background-color: #ddc8b7;
+  color: #fafafa;
+}

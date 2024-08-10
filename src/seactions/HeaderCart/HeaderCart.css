@@ -1,0 +1,20 @@
+/* 
+In this example, we're using the currentPage state to keep track of the current page, and the totalPages state to keep track of the total number of pages. We then use the handlePageChange function to update the currentPage state when the user clicks on a page number.
+
+The fetchProducts function now includes the page parameter in the API request, which allows us to fetch the products for the current page.
+
+The pagination buttons are rendered at the bottom of the page, with the active class applied to the button corresponding to the current page.
+
+You can also implement infinite scrolling by removing the pagination and instead fetching more products when the user scrolls to the bottom of the page. You can use the useEffect hook to listen for the scroll event and fetch more products when the user reaches the bottom of the page.
+*/
+/* Default height for small devices */
+#intro-example {
+  height: 400px;
+}
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+  #intro-example {
+    height: 675px;
+  }
+}

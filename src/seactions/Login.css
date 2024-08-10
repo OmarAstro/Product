@@ -1,0 +1,15 @@
+/* 
+
+In this example, we first initialize the Firebase app with the necessary configuration. Then, we create a LoginSignUp component that handles both the login and sign-up functionality.
+
+The component uses the useState hook to manage the state of the email, password, and whether the user is trying to log in or sign up.
+
+The handleSubmit function is called when the form is submitted. If the user is trying to log in, it calls firebase.auth().signInWithEmailAndPassword() with the provided email and password. If the user is trying to sign up, it calls firebase.auth().createUserWithEmailAndPassword() with the provided email and password.
+
+The toggleForm function is called when the user clicks the "Create an account" or "Already have an account? Log in" button, which toggles the isLogin state and updates the form accordingly.
+
+You'll need to replace the firebaseConfig object with your own Firebase configuration details, which you can find in the Firebase console.
+
+This example provides a basic structure for a login and sign-up page using Firebase in a React application. You can further customize the styling and add additional features as needed.
+
+*/

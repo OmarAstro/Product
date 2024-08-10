@@ -1,0 +1,5 @@
+.img-del:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px 0 #00000066;
+  transition: all 0.3s ease-in-out;
+}

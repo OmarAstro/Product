@@ -1,0 +1,40 @@
+.img {
+  /* background-image: url(https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
+  /* background-image: url(https://images.unsplash.com/photo-1695048401357-b15d664bea59?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
+  background-image: url(https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: 300px;
+  /* border-radius: 6px; */
+  overflow: hidden;
+}
+.om {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+  /* border-radius: 6px; */
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+  /* filter: opacity(0.8); */
+  
+}
+
+/* .om:hover {
+  filter: opacity(0.8);
+  transform: scale(1.1);
+  
+}
+.img:hover {
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+} */
