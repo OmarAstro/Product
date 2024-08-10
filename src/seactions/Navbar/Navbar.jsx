@@ -58,7 +58,7 @@ const Navbarr = () => {
               variant="h6"
               noWrap
               component="a"
-              href="/"
+              href="/Product"
               sx={{
                 mr: 2,
                 display: { xs: "none", md: "flex" },
@@ -107,7 +107,7 @@ const Navbarr = () => {
                 >
                   <Link
                     className=" text-decoration-none w-100"
-                    to="/Product"
+                    to="/ListProduct"
                     textAlign="center"
                     style={{
                       // height: "20px",
@@ -162,7 +162,7 @@ const Navbarr = () => {
               variant="h5"
               noWrap
               component="a"
-              href="#app-bar-with-responsive-menu"
+              href="/Product"
               sx={{
                 mr: 2,
                 display: { xs: "flex", md: "none" },
@@ -183,7 +183,7 @@ const Navbarr = () => {
               <Link
                 className="text-white my-2 d-block text-decoration-none"
                 // sx={{ my: 2, color: "white", display: "block" }}
-                to="/Product"
+                to="/ListProduct"
               >
                 Product
               </Link>

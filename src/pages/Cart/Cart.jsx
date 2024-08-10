@@ -30,10 +30,10 @@ const Cart = () => {
           <div className="text-center">
             <p>Your cart is empty.</p>
             <div className="d-flex justify-content-center">
-              <Link className="btn btn-outline-dark mx-3" to="/Product">
+              <Link className="btn btn-outline-dark mx-3" to="/ListProduct">
                 Product
               </Link>
-              <Link className="btn btn-dark " to="/">
+              <Link className="btn btn-dark " to="/Product">
                 Home
               </Link>
             </div>

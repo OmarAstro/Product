@@ -78,7 +78,7 @@ const HomeOne = () => {
                     <Link
                       className="btn btn-outline-dark  align-items-end justify-content-end "
                       variant="light"
-                      to="/Product"
+                      to="/ListProduct"
                     >
                       View Details
                     </Link>
