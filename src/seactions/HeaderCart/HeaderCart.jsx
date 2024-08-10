@@ -11,7 +11,11 @@ import {
   MDBBtn,
 } from "mdb-react-ui-kit";
 import "./HeaderCart.css";
+import { Link } from "react-router-dom";
 // import "../../pages/Product/Product";
+import ListProduct from "../../pages/Product/Product";
+import Product from "../../pages/Product/Product";
+
 
 export default function HeaderProduct() {
   return (
@@ -44,9 +48,10 @@ export default function HeaderProduct() {
                 size="lg"
                 // rel="nofollow"
                 // target="_blank"
-                to="/ListProduct"
               >
-                Product
+                <Link to="/ListProduct" className="text-white text-decoration-none">
+                  Product
+                </Link>
               </MDBBtn>
               <MDBBtn
                 className="m-2 btn-outline-light"
@@ -56,9 +61,10 @@ export default function HeaderProduct() {
                 // rel="nofollow"
                 // target="_blank"
                 to="/Product"
-
               >
-                Home
+                <Link to="/Product" className="text-white text-decoration-none">
+                  Home
+                </Link>
               </MDBBtn>
             </div>
           </div>
