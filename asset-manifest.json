@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Product/static/css/main.28a87cc2.css",
-    "main.js": "/Product/static/js/main.d6a24c6f.js",
+    "main.css": "/Product/static/css/main.daceecd5.css",
+    "main.js": "/Product/static/js/main.9de79ad3.js",
     "static/media/fa-solid-900.ttf": "/Product/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/Product/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/Product/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -67,11 +67,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/Product/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/Product/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/Product/index.html",
-    "main.28a87cc2.css.map": "/Product/static/css/main.28a87cc2.css.map",
-    "main.d6a24c6f.js.map": "/Product/static/js/main.d6a24c6f.js.map"
+    "main.daceecd5.css.map": "/Product/static/css/main.daceecd5.css.map",
+    "main.9de79ad3.js.map": "/Product/static/js/main.9de79ad3.js.map"
   },
   "entrypoints": [
-    "static/css/main.28a87cc2.css",
-    "static/js/main.d6a24c6f.js"
+    "static/css/main.daceecd5.css",
+    "static/js/main.9de79ad3.js"
   ]
 }
